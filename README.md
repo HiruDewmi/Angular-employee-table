@@ -1,10 +1,11 @@
-# SmartTableExample
+# Angular Smart Table
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0.
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Before running the code, it is necessary to install required JASON files (package.json) and other resources in root directory. For that run `nmp install`. 
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you have not made any changes for the source files.
 
 ## Code scaffolding
 
