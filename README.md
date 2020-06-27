@@ -18,7 +18,7 @@ You can use Visual Studio 2017 or any other editor that supports Angular App dev
 
 System should have installed Node.js and proper NPM version (run `nmp install`). Also install the latest version of Angular CLI. 
 
-Then go to the downloaded source file where you should have all the files. In command prompt, navigate the directory to root workstation and run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you have not made any changes for the source files.
+Then go to the downloaded source file where you should have all the files. In command prompt, navigate the directory to root workstation(...\Angular-employee-table-master) and execute `nmp install` (this will create `node_modules` folder) to install required JSON files and then run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you have not made any changes for the source files.
 
 By default, the Angular app runs on 4200 port but you can change default port with the following command:  `ng serve --port 4201`
 
