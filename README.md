@@ -35,6 +35,6 @@ In Angular application `app.module.ts` is a registary for module.
 `ng g c table` command used to create a table inside the `src/app/` which update default components of `app.module.ts.`too. 
 
 ## Output
-
+![Output](
 
 
