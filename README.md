@@ -1,11 +1,12 @@
-# Angular Smart Table
+# Angular Smart Table - Employee Managment System
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0.
 
 ## Development server
 
-Before running the code, it is necessary to install required JASON files (package.json) and other resources in root directory. For that run `nmp install`. 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you have not made any changes for the source files.
+System should have installed Node.js and proper NPM version (run `nmp install`). Also install the latest version of Angular CLI. 
+
+Then go to the downloaded source file where you should have all the files. In command prompt navigate to root workstation and run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you have not made any changes for the source files.
 
 ## Code scaffolding
 
@@ -29,10 +30,29 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
  
 ## Code explanation
 
-In Angular application `app.module.ts` is a registary for module. 
-`import {Ng2SmartTableModule} from 'ng2-smart-table';` added to the exsisting app.module.ts code. 
+In this app following features have implemented;
+  * Create an Employee
+  * Update an Employee
+  * List of Employees
+  * Delete Employee
+  * View Employee
+ 
+Used Components, Services, Modules, and Class
+Components
+ * create-employee
+ * employee-list
+ * employee-details
 
-`ng g c table` command used to create a table inside the `src/app/` which update default components of `app.module.ts.`too. 
+Services
+ * employee.service.ts - Service for Http Client methods
+
+Modules
+ * FormsModule
+ * HttpClientModule
+ * AppRoutingModule
+ 
+Employee Class (Typescript class)
+ * employee.ts: class Employee (id, firstName, lastName, emailId
 
 ## Output
 Output interfaces at `http://localhost:4200/` are as follows. 
