@@ -37,7 +37,8 @@ In this app following features have implemented;
   * Delete Employee
   * View Employee
  
-Used Components, Services, Modules, and Class
+Used Components, Services, Modules, and Class;
+
 Components
  * create-employee
  * employee-list
