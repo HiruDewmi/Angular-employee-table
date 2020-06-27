@@ -8,6 +8,8 @@ System should have installed Node.js and proper NPM version (run `nmp install`).
 
 Then go to the downloaded source file where you should have all the files. In command prompt navigate to root workstation and run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you have not made any changes for the source files.
 
+By default, the Angular app runs on 4200 port but you can change default port with the following command:  `ng serve --port 4201`
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
