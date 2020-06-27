@@ -2,11 +2,23 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0.
 
+## Prerequisites
+
+Technologies 
+ * Angular 9 or above
+ * Bootstrap 4
+ * npm 6.9.0 or above
+ * JQuery
+ * Node js 10+
+ * Angular CLI 
+ 
+You can use Visual Studio 2017 or any other editor that supports Angular App development
+
 ## Development server
 
 System should have installed Node.js and proper NPM version (run `nmp install`). Also install the latest version of Angular CLI. 
 
-Then go to the downloaded source file where you should have all the files. In command prompt navigate to root workstation and run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you have not made any changes for the source files.
+Then go to the downloaded source file where you should have all the files. In command prompt, navigate the directory to root workstation and run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you have not made any changes for the source files.
 
 By default, the Angular app runs on 4200 port but you can change default port with the following command:  `ng serve --port 4201`
 
@@ -62,6 +74,7 @@ Output interfaces at `http://localhost:4200/` are as follows.
 
 ![Capture](https://user-images.githubusercontent.com/44197887/85933525-a0a6b680-b8f5-11ea-9c86-62166f761dae.JPG)
 
+## Employee List with CRUD Actions
 
 ![Capture1](https://user-images.githubusercontent.com/44197887/85933531-a9978800-b8f5-11ea-9609-0f8657690d55.JPG)
 ![Capture2](https://user-images.githubusercontent.com/44197887/85933535-b1572c80-b8f5-11ea-8a97-909b12b485c1.JPG)
