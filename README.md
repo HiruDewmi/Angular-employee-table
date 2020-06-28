@@ -12,7 +12,8 @@ Below are the front-end technologies that used in this project.
  * Angular CLI 
  
 Dummy REST API has used for data record into table and delete records from database. 
-You can use Visual Studio 2017 or any other editor that supports Angular App development
+
+For coding, you can use Visual Studio 2017 or any other editor that supports Angular App development
 
 ## Development server
 
