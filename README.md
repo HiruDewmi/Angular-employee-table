@@ -4,15 +4,16 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Prerequisites
 
-Technologies 
+Below are the front-end technologies that used in this project. 
  * Angular 9 or above
  * Bootstrap 4
  * npm 6.9.0 or above
- * JQuery
  * Node js 10+
  * Angular CLI 
  
-You can use Visual Studio 2017 or any other editor that supports Angular App development
+Dummy REST API has used for data record into table and delete records from database. 
+
+For coding, you can use Visual Studio 2017 or any other editor that supports Angular App development
 
 ## Development server
 
